@@ -6,5 +6,19 @@
 int main() {
     h();
     std::cout << "poka" << std::endl;
+    std::cout << "poka" << std::endl;
+    std::cout << "poka" << std::endl;
+    std::cout << "poka" << std::endl;
+    std::cout << "poka" << std::endl;
+    std::cout << "poka" << std::endl;
+    std::cout << "poka" << std::endl;
+    std::cout << "poka" << std::endl;
+    std::cout << "poka" << std::endl;
+    std::cout << "poka" << std::endl;
+    std::cout << "poka" << std::endl;
+    std::cout << "poka" << std::endl;
+    std::cout << "poka" << std::endl;
+    std::cout << "poka" << std::endl;
+    std::cout << "poka" << std::endl;
     return 0;
 }
