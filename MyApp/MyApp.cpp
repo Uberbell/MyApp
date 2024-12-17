@@ -5,6 +5,6 @@
 
 int main() {
     h();
-
+    std::cout << "privet" << std::endl;
     return 0;
 }
