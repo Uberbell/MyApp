@@ -5,20 +5,13 @@
 
 int main() {
     h();
-    std::cout << "poka" << std::endl;
-    std::cout << "poka" << std::endl;
-    std::cout << "poka" << std::endl;
-    std::cout << "poka" << std::endl;
-    std::cout << "poka" << std::endl;
-    std::cout << "poka" << std::endl;
-    std::cout << "poka" << std::endl;
-    std::cout << "poka" << std::endl;
-    std::cout << "poka" << std::endl;
-    std::cout << "poka" << std::endl;
-    std::cout << "poka" << std::endl;
-    std::cout << "poka" << std::endl;
-    std::cout << "poka" << std::endl;
-    std::cout << "poka" << std::endl;
-    std::cout << "poka" << std::endl;
+    std::cout << "privet" << std::endl;
+    std::cout << "privet" << std::endl;
+    std::cout << "privet" << std::endl;
+    std::cout << "privet" << std::endl;
+    std::cout << "privet" << std::endl;
+    std::cout << "privet" << std::endl; 
+    std::cout << "privet" << std::endl;
+    std::cout << "privet" << std::endl;
     return 0;
 }
