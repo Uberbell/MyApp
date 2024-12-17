@@ -5,6 +5,6 @@
 
 int main() {
     h();
-
+    std::cout << "poka" << std::endl;
     return 0;
 }
